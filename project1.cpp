@@ -1229,6 +1229,6 @@ void ShowMainMenue()
 int main()
 {
     ShowLoginScreen();
-    system("pause>0");
+    system("pause");
     return 0;
 }
