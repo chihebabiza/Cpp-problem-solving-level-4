@@ -1,8 +1,6 @@
 # 🧠 Problem Solving Level 4 – ProgrammingAdvices.com
 
-This repository contains my solutions and notes for the **Problem Solving Courses** offered by [ProgrammingAdvices.com](https://www.programmingadvices.com/)<br> 
-All problems are solved in **C++**.
-
+This repository contains my solutions and notes for the **Problem Solving Course** offered by [ProgrammingAdvices.com](https://www.programmingadvices.com/)<br> 
 ## 💡 Purpose
 
 - Strengthen core programming logic
@@ -16,7 +14,7 @@ All problems are solved in **C++**.
 
 ## 🔗 Course Link
 
-👉 [ProgrammingAdvices – Problem Solving Courses](https://programmingadvices.com/p/08-algorithms-problem-solving-level-4)
+👉 [ProgrammingAdvices – Problem Solving Course](https://programmingadvices.com/p/08-algorithms-problem-solving-level-4)
 
 ## 📄 License
 
